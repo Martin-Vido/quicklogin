@@ -2,7 +2,8 @@
     "users": {
         "user1": {
             "username": "Admin",
-            "password": null
+            "password": null,
+            "admin": true
         }
     }
 }
