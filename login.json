@@ -9,6 +9,11 @@
             "username": "panel",
             "password": "81dc9bdb52d04dc20036dbd8313ed055",
             "admin": false
+        },
+        "user3": {
+            "username": "mortoning",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b",
+            "admin": false
         }
     }
 }
