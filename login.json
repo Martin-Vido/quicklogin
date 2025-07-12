@@ -14,6 +14,11 @@
             "username": "quickled",
             "password": "c4ca4238a0b923820dcc509a6f75849b",
             "admin": false
+        },
+        "user4": {
+            "username": "quickos",
+            "password": "e0a7e03a5542e49fd53592fe0444e083",
+            "admin": false
         }
     }
 }
